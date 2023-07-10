@@ -37,7 +37,7 @@ agriculture. The dataset used for training the model was sourced from the "Plant
 research.
 
 ## References
-[1] PlantVillage Dataset: [link to dataset](https://plantvillage.psu.edu/)
+[1] PlantVillage Dataset: [link to dataset] https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 [2] TensorFlow: [link to TensorFlow website](https://www.tensorflow.org/)
 [3] Keras: [link to Keras documentation](https://keras.io/)
 [4] Matplotlib: [link to Matplotlib documentation](https://matplotlib.org/)
