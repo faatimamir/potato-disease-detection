@@ -6,3 +6,4 @@ pillow
 tensorflow-serving-api==2.5.0
 matplotlib
 numpy
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
